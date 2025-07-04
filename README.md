@@ -158,7 +158,7 @@ Deploy using:
 
 ## 🙌 Acknowledgements
 
-- [OpenRouter.ai](https://a4f.co)
+- [a4f.co](https://a4f.co)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Mermaid.js](https://mermaid.js.org/)
 - [TailwindCSS](https://tailwindcss.com/)
