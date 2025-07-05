@@ -149,7 +149,7 @@ int main() {
 
 ---
 
-## 📦 Deployment (Optional)
+## 📦 Deployment
 
 Deploy using:
 - [Render](https://render.com)
